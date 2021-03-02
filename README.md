@@ -1,1 +1,2 @@
-JAVA PROJECT 01
+Hi Everyone
+This is JAVA PROJECT 01
